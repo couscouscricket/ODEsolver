@@ -1,2 +1,2 @@
 # ODEsolver
-Ordinary differential equation solver, plotting with gnuplot.
+Solves ordinary differential equations and plots time series and phase space with gnuplot.
