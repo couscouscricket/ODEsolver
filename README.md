@@ -1,6 +1,6 @@
 # ODEsolver
-Solves ordinary differential equations and plots time series and phase space with gnuplot.
+Solves ordinary differential equations.
 
-Uses gnuplot pipes
+Plots using gnuplot and gnuplot pipes
 
-Program written in C.
+Written in C.
