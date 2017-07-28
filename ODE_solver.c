@@ -3,7 +3,7 @@
 
 #define PATH "euler.dat"
 #define sizeof_array(array) sizeof array / sizeof array[0]
-const double PI = 3.14159265358979;
+const double PI = 4*atan(1);
 typedef double function(int *i, double *q);
 int DIMENSION;
 //double DELTA_t = 0.015625; //1/2^6
