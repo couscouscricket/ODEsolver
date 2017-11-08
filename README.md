@@ -1,6 +1,7 @@
-# ODEsolver
-Solves ordinary differential equations.
+# Ordinary differential equation solver
 
-Plots using gnuplot and gnuplot pipes
+Integrates ordinary differential equations.
 
-Written in C.
+Plots using gnuplot and epslatex terminal.
+
+![](/lorenz.svg)
